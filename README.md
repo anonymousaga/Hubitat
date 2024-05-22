@@ -1,2 +1,2 @@
 # Hubitat
-My Hubitat apps and drivers, written in groovy.
+Virtual Temperate and Humidity sensor driver, written in groovy
